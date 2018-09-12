@@ -3,19 +3,7 @@ import java.util.Scanner;
 
 public class MakeAPerson{
 	public static void main(String[] args){
-		/*Lamp myLamp = new Lamp();
-		System.out.println("This is my LAMP!");
 		
-		myLamp.setColor("white");
-		myLamp.setWatts(45);
-		myLamp.turnOn();
-		
-		String myStatus = myLamp.showStatus();
-		System.out.println(myStatus);
-		private String firstname;
-		private String lastname;
-		private int age = 0;
-		private char sex = 'a';*/
 		String a;
 		String b;
 		char c = 'a';
